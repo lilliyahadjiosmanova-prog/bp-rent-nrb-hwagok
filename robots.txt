@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nrb-hwagok.xyz/sitemap.xml
+Sitemap: https://nrb-hwagok.xyz/sitemap-index.xml
